@@ -40,6 +40,6 @@ seguir os passos abaixo:
 
 ## 🛠️ Construído com
 
-* [Python](https://www.php.net/docs.php) - Python
+* [Python](https://www.python.org/) - Python
 * [FastAPI](https://fastapi.tiangolo.com/) - Framework para criação de API's
 * [SQLAlchemy](https://www.sqlalchemy.org/) - ORM
