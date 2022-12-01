@@ -6,7 +6,7 @@ Implementação de uma API para consultas simples utilizando REST.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[utilização](#-utiliza%C3%A7%C3%A3o)** ou **[instalação](#-instala%C3%A7%C3%A3o)** para saber como utilizar ou instalar o projeto.
+Consulte **[instalação](#-instala%C3%A7%C3%A3o)** para saber como instalar o projeto.
 
 ### 📋 Pré-requisitos
 
